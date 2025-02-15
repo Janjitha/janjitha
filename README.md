@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Janjitha
 
 ### CSE Undergraduate Student | Aspiring Cybersecurity Professional 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=janjitha&label=Profile%20views&color=0e75b6&style=flat" alt="janjitha" /> </p>
 <!-- Hacker Theme -->
 <img align="right" width="370" height="290" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
 
