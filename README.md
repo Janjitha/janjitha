@@ -31,8 +31,11 @@
 
 [![Janjitha's Badge](https://tryhackme-badges.s3.amazonaws.com/GlitchQueen.png)](https://tryhackme.com/r/p/GlitchQueen)
 
-![janjitha's Stats](https://github-readme-stats.vercel.app/api?username=janjitha&theme=omni&show_icons=true&hide_border=true&count_private=false)
+![janjitha's Stats](https://github-readme-stats.vercel.app/api?username=janjitha&theme=omni&show_icons=true&hide_border=true&count_private=false)  
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=janjitha&theme=ocean-dark&hide_border=true)](https://git.io/streak-stats)
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Janjitha?theme=dark&font=Noto%20Sans%20Display)](https://leetcode.com/Janjitha/)
 
 [![Janjitha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=janjitha&bg_color=0d0d0d&color=ffffff&line=ff00f7&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
