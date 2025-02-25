@@ -1,14 +1,20 @@
-## Hi there 👋 I'm Janjitha
+<div align="center">
 
-### CSE Undergraduate Student | Aspiring Cybersecurity Professional 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=janjitha&label=Profile%20views&color=0e75b6&style=flat" alt="janjitha" /> </p>
+# 🎀 **Hi there, I'm Janjitha** 🎀  
+### 💻 CSE Undergraduate Student | 🔐 Aspiring Cybersecurity Professional  
+
+![Profile Views](https://komarev.com/ghpvc/?username=janjitha&label=Profile%20views&color=ff69b4&style=flat)
+
+<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+</div>
 <!-- Hacker Theme -->
-<img align="right" width="370" height="290" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
 
 - 🛡️ **Learner in Cybersecurity, focusing on protecting digital assets & finding vulnerabilities**  
 - 💡 **Exploring security tools & automation** using **Java** & **Python**  
 - 🔐 **Interests:** Vulnerability Assessment, Penetration Testing, Network Security, and Threat Detection  
-- 🌱 **Currently learning:** Advanced Exploitation Techniques, Security Automation, and Cloud Security  
+- 🌱 **Currently learning:** Advanced Exploitation Techniques, Security Automation, and Cloud Security
+- ⚡ **Fun fact:** I debug with **coffee & music! 🎶☕**  
 
 - 🎯 **Goal:** Strengthening digital defenses and making the internet safer  
 - 📚 **Security Enthusiast** | 🔍 **Bug Hunter** | 🤝 **Open to Collaboration**  
@@ -29,8 +35,10 @@
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> <img width="48" height="48" src="https://img.icons8.com/color/48/nmap.png" alt="nmap"/><img width="48" height="48" src="https://img.icons8.com/color/48/metasploit.png" alt="metasploit"/><img width="48" height="48" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux--v1"/>
 <img width="48" height="48" src="https://img.icons8.com/deco/48/burp-suite.png" alt="burp-suite"/>
 
-[![Janjitha's Badge](https://tryhackme-badges.s3.amazonaws.com/GlitchQueen.png)](https://tryhackme.com/r/p/GlitchQueen)
+### 🏆 **TryHackMe Badge**
+[![Janjitha's TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/GlitchQueen.png)](https://tryhackme.com/r/p/GlitchQueen)
 
+### 📊 **GitHub Stats**
 ![janjitha's Stats](https://github-readme-stats.vercel.app/api?username=janjitha&theme=omni&show_icons=true&hide_border=true&count_private=false)  
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=janjitha&theme=ocean-dark&hide_border=true)](https://git.io/streak-stats)
@@ -39,3 +47,4 @@
 
 [![Janjitha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=janjitha&bg_color=0d0d0d&color=ffffff&line=ff00f7&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+### **🚀 Keep Learning, Keep Hacking!**
