@@ -14,7 +14,6 @@
 - 💡 **Exploring security tools & automation** using **Java** & **Python**  
 - 🔐 **Interests:** Vulnerability Assessment, Penetration Testing, Network Security, and Threat Detection  
 - 🌱 **Currently learning:** Advanced Exploitation Techniques, Security Automation, and Cloud Security
-- ⚡ **Fun fact:** I debug with **coffee & music! 🎶☕**  
 
 - 🎯 **Goal:** Strengthening digital defenses and making the internet safer  
 - 📚 **Security Enthusiast** | 🔍 **Bug Hunter** | 🤝 **Open to Collaboration**  
