@@ -39,7 +39,7 @@
 
 ### 📊 **GitHub Stats**
 ![janjitha's Stats](https://github-readme-stats.vercel.app/api?username=janjitha&theme=omni&show_icons=true&hide_border=true&count_private=false)  
-
+<!--streak-->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=janjitha&theme=ocean-dark&hide_border=true)](https://git.io/streak-stats)
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Janjitha?theme=dark&font=Noto%20Sans%20Display)](https://leetcode.com/Janjitha/)
